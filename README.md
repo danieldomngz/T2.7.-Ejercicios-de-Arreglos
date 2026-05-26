@@ -11,26 +11,10 @@ El objetivo principal de este proyecto es simular el rol de un ingeniero de soft
 El programa está diseñado para cumplir con las siguientes funciones base:
 
 | Funcionalidad | Descripción |
-| --- | --- |
+| :--- | :--- |
 | **1. Registrar Calificaciones** | Permite ingresar los datos al sistema. |
-| **2. Mostrar Reporte Estadístico** | Calcula el promedio general de calificaciones de todo el grupo. <br>
-
-<br>
-
-<br> Muestra el número total de alumnos aprobados (nota mayor o igual a 7). <br>
-
-<br>
-
-<br> Muestra el número total de alumnos reprobados (nota menor a 7). |
-| **3. Buscar Estudiante** | Utiliza una búsqueda secuencial. <br>
-
-<br>
-
-<br> **Éxito**: Si lo encuentra, muestra su nombre, su nota y un mensaje indicando si está "Aprobado" o "Reprobado". <br>
-
-<br>
-
-<br> **Error**: Si no lo encuentra, muestra un mensaje claro de error (ej. "El estudiante [Nombre] no se encuentra registrado"). |
+| **2. Mostrar Reporte Estadístico** | • Calcula el promedio general de calificaciones de todo el grupo.<br>• Muestra el número total de alumnos aprobados (nota mayor o igual a 7).<br>• Muestra el número total de alumnos reprobados (nota menor a 7). |
+| **3. Buscar Estudiante** | Utiliza una búsqueda secuencial:<br>• **Éxito:** Si lo encuentra, muestra su nombre, su nota y un mensaje indicando si está "Aprobado" o "Reprobado".<br>• **Error:** Si no lo encuentra, muestra un mensaje claro de error (ej. "El estudiante [Nombre] no se encuentra registrado"). |
 
 ## 🛠️ Funcionalidades Clave y Técnicas
 
